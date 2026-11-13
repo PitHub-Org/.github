@@ -45,9 +45,7 @@ Bear Down served as the founding development team, establishing the initial arch
 
 ### Development Teams & Project Continuity
 
-PitHub is designed to support ongoing development through successive Scrum teams recruited to maintain and improve the platform.
-
-Each development cycle may involve new teams responsible for continuing existing work, implementing new functionality, addressing technical debt, and improving the overall user experience.
+PitHub is designed to support ongoing development through successive Scrum teams recruited to maintain and improve the platform, continuing existing work, implementing new functionality, addressing technical issues, and improving the overall user experience.
 
 Development teams are expected to:
 
@@ -73,7 +71,7 @@ All repositories within this organization should follow consistent development p
 - **Security:** Never commit credentials, API secrets, or sensitive configuration files. Address dependency vulnerabilities promptly.
 - **Documentation:** Keep relevant technical documentation and repository README files up to date.
 
-Direct pushes to `main` should remain disabled, with appropriate branch protection rules and automated status checks enforced.
+Direct pushes to `main` remais disabled, with appropriate branch protection rules and automated status checks enforced.
 
 ---
 
@@ -81,7 +79,7 @@ Direct pushes to `main` should remain disabled, with appropriate branch protecti
 
 PitHub was originally developed through Lewis University Software Engineering Scrum teams:
 
-**Bear Down**
+[**Bear Down**](https://nice-bay-0f6a7851e.4.azurestaticapps.net/)
 
 - Kevin Dacanay – kevinbrianfdacanay@lewisu.edu
 - Sebastian Jaculbe – sebastiandjaculbe@lewisu.edu
@@ -89,12 +87,16 @@ PitHub was originally developed through Lewis University Software Engineering Sc
 - Edward Rodriguez – edwardjrodriguez@lewisu.edu
 - Kaleb Richardson – kalebrrichardon@lewisu.edu
 
-**RedDragons**
+<!-- You guys can change the link below to the actual azure website url -->
+[**RedDragons**](https://github.com/RedDragonsFall2026/getting-to-know-each-other-teams)
 
 - Jacob Mysliwiec – jacobmmysliwiec@lewisu.edu
 - Mirjavkhar Djavkharov – mirjavkhardjavkhar@lewisu.edu
 - Chloe Washington – chloewashington52@gmail.com
 - Josh Salazar – joshsalazar@lewisu.edu
+
+<!-- New teams would add their info here -->
+
 
 For project-related questions, development inquiries, or organizational matters, please contact the appropriate team members.
 
